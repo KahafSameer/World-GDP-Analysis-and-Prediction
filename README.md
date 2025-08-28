@@ -4,7 +4,7 @@
 
 **A Streamlit dashboard + ML predictor for exploring and estimating GDP per capita around the world.**
 
-<img src="assets/banner.png" alt="World GDP Analysis banner" width="100%"/>
+<img src="https://sl.bing.net/fhdNHclIs8q" alt="World GDP Analysis banner" width="100%"/>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b)](https://streamlit.io/)
