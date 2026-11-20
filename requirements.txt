@@ -1,0 +1,8 @@
+# Derived from the imports in app.py and helper.py
+# scikit-learn is needed to load the pickled model (model_dtr.pkl)
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
