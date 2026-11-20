@@ -79,8 +79,8 @@ assets/demo.gif   ← put a GIF here (3–8 seconds is perfect)
 
 ```bash
 # 1) Clone the repo
-git clone https://github.com/611noorsaeed/world-gdp-analysis.git
-cd world-gdp-analysis
+git clone https://github.com/KahafSameer/World-GDP-Analysis-and-Prediction.git
+cd World-GDP-Analysis-and-Prediction
 
 # 2) Create & activate a virtual environment (optional but recommended)
 python -m venv .venv
